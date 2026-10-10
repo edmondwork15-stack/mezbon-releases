@@ -1,23 +1,35 @@
 {
     "windows":  {
-                    "versiya":  "1.0.1",
+                    "versiya":  "1.0.2",
                     "sana":  "2026-10-10",
-                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.1/MEZBON_POS_Setup_1.0.1.exe",
-                    "sha256":  "d22524ecaa8585c66acbff5df4a6bdf41288ec5705742872538a347623c20831",
-                    "hajm":  16908557,
+                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.2/MEZBON_POS_Setup_1.0.2.exe",
+                    "sha256":  "e3a2d68e7f81482963a07512c7e2b5d3ed2f91d0b4a0a776dc8d623952fb1d6a",
+                    "hajm":  16929603,
                     "majburiy_min":  "0.0.0",
                     "ozgarishlar":  [
                                         {
                                             "tur":  "yangi",
-                                            "matn":  "Xarajatlar bo\u0027limi"
+                                            "matn":  "Rang mavzulari"
+                                        },
+                                        {
+                                            "tur":  "yangi",
+                                            "matn":  "Chek shablonlari va Logo"
                                         },
                                         {
                                             "tur":  "tuzatildi",
-                                            "matn":  "Saqlash tugmasi tuzatildi"
+                                            "matn":  "Kassadan to\u0027langan xarajat smena xisobga olinadi"
+                                        },
+                                        {
+                                            "tur":  "tuzatildi",
+                                            "matn":  "Yangilanish o\u0027rnatilishi tuzatildi"
                                         }
                                     ]
                 },
     "tarix":  [
+                  {
+                      "versiya":  "1.0.2",
+                      "sana":  "2026-10-10"
+                  },
                   {
                       "versiya":  "1.0.1",
                       "sana":  "2026-10-10"
