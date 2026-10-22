@@ -1,31 +1,23 @@
 {
     "windows":  {
-                    "versiya":  "1.0.2",
-                    "sana":  "2026-10-10",
-                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.2/MEZBON_POS_Setup_1.0.2.exe",
-                    "sha256":  "e3a2d68e7f81482963a07512c7e2b5d3ed2f91d0b4a0a776dc8d623952fb1d6a",
-                    "hajm":  16929603,
+                    "versiya":  "1.0.5",
+                    "sana":  "2026-10-22",
+                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.5/MEZBON_POS_Setup_1.0.5.exe",
+                    "sha256":  "380f376f7f79e8c507a9f27e2f1146e3398db504795bc7aae5dcd5c6671728dd",
+                    "hajm":  50056504,
                     "majburiy_min":  "0.0.0",
                     "ozgarishlar":  [
                                         {
-                                            "tur":  "yangi",
-                                            "matn":  "Rang mavzulari"
-                                        },
-                                        {
-                                            "tur":  "yangi",
-                                            "matn":  "Chek shablonlari va Logo"
-                                        },
-                                        {
-                                            "tur":  "tuzatildi",
-                                            "matn":  "Kassadan to\u0027langan xarajat smena xisobga olinadi"
-                                        },
-                                        {
-                                            "tur":  "tuzatildi",
-                                            "matn":  "Yangilanish o\u0027rnatilishi tuzatildi"
+                                            "tur":  "yaxshilandi",
+                                            "matn":  "imzo kaliti xavfsiz joyga ko\u0027chirildi"
                                         }
                                     ]
                 },
     "tarix":  [
+                  {
+                      "versiya":  "1.0.5",
+                      "sana":  "2026-10-22"
+                  },
                   {
                       "versiya":  "1.0.2",
                       "sana":  "2026-10-10"
@@ -34,5 +26,13 @@
                       "versiya":  "1.0.1",
                       "sana":  "2026-10-10"
                   }
-              ]
+              ],
+    "android":  {
+                    "versiya":  "1.0.5",
+                    "kod":  9,
+                    "sana":  "2026-10-22",
+                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.5/MEZBON_Ofitsiant_1.0.5.apk",
+                    "sha256":  "6b2fd9f77e7f466731487401e265203b547ceb6022e61e23caf9a93ae3f498da",
+                    "hajm":  95047041
+                }
 }
