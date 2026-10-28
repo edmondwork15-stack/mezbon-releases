@@ -1,19 +1,23 @@
 {
     "windows":  {
-                    "versiya":  "1.0.5",
-                    "sana":  "2026-10-22",
-                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.5/MEZBON_POS_Setup_1.0.5.exe",
-                    "sha256":  "380f376f7f79e8c507a9f27e2f1146e3398db504795bc7aae5dcd5c6671728dd",
-                    "hajm":  50056504,
+                    "versiya":  "1.0.8",
+                    "sana":  "2026-10-28",
+                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.8/MEZBON_POS_Setup_1.0.8.exe",
+                    "sha256":  "c63177ec67a59190fb5510260f4a55368dbc441da9897c6a2b7817341cff79f1",
+                    "hajm":  49612253,
                     "majburiy_min":  "0.0.0",
                     "ozgarishlar":  [
                                         {
-                                            "tur":  "yaxshilandi",
-                                            "matn":  "imzo kaliti xavfsiz joyga ko\u0027chirildi"
+                                            "tur":  "tuzatildi",
+                                            "matn":  "Oshxona va hisob chekida zal/xona ko\u0027rinadi"
                                         }
                                     ]
                 },
     "tarix":  [
+                  {
+                      "versiya":  "1.0.8",
+                      "sana":  "2026-10-28"
+                  },
                   {
                       "versiya":  "1.0.5",
                       "sana":  "2026-10-22"
@@ -28,11 +32,11 @@
                   }
               ],
     "android":  {
-                    "versiya":  "1.0.5",
-                    "kod":  9,
-                    "sana":  "2026-10-22",
-                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.5/MEZBON_Ofitsiant_1.0.5.apk",
-                    "sha256":  "6b2fd9f77e7f466731487401e265203b547ceb6022e61e23caf9a93ae3f498da",
-                    "hajm":  95047041
+                    "versiya":  "1.0.8",
+                    "kod":  12,
+                    "sana":  "2026-10-28",
+                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.8/MEZBON_Ofitsiant_1.0.8.apk",
+                    "sha256":  "125a72c97a463a465eb87d19c6575bfe8c5e945a57faf615514f8a90d57d5bbf",
+                    "hajm":  93769101
                 }
 }
