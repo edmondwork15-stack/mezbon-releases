@@ -1,30 +1,46 @@
 {
     "windows":  {
-                    "versiya":  "1.0.8",
-                    "sana":  "2026-10-28",
-                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.8/MEZBON_POS_Setup_1.0.8.exe",
-                    "sha256":  "c63177ec67a59190fb5510260f4a55368dbc441da9897c6a2b7817341cff79f1",
-                    "hajm":  49612253,
+                    "versiya":  "1.0.9",
+                    "sana":  "2026-11-02",
+                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.9/MEZBON_POS_Setup_1.0.9.exe",
+                    "sha256":  "e15de545e88e756cf19508a36f278bfc9a79ae90394581d195d3710c12fbfc72",
+                    "hajm":  49723138,
                     "majburiy_min":  "0.0.0",
                     "ozgarishlar":  [
                                         {
+                                            "tur":  "yangi",
+                                            "matn":  "Og\u0027irlik bo\u0027yicha taom (tirik baliq,xom g\u0027osht) -kg kiritiladi, summa avtomatik"
+                                        },
+                                        {
+                                            "tur":  "yangi",
+                                            "matn":  "Xizmat haqi: kishi boshiga, foiz yoki ikkalasi"
+                                        },
+                                        {
+                                            "tur":  "yaxshilandi",
+                                            "matn":  "Kassada taom tanlash -/+ tugmalari"
+                                        },
+                                        {
                                             "tur":  "tuzatildi",
-                                            "matn":  "Oshxona va hisob chekida zal/xona ko\u0027rinadi"
+                                            "matn":  "o\u0027chirilgan xodimning PIN\u0027i yangi xodimga berilishi mumkin"
                                         }
                                     ]
                 },
     "tarix":  [
+                  {
+                      "versiya":  "1.0.9",
+                      "sana":  "2026-11-02"
+                  },
                   {
                       "versiya":  "1.0.8",
                       "sana":  "2026-10-28"
                   }
               ],
     "android":  {
-                    "versiya":  "1.0.8",
-                    "kod":  12,
-                    "sana":  "2026-10-28",
-                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.8/MEZBON_Ofitsiant_1.0.8.apk",
-                    "sha256":  "125a72c97a463a465eb87d19c6575bfe8c5e945a57faf615514f8a90d57d5bbf",
-                    "hajm":  93769101
+                    "versiya":  "1.0.9",
+                    "kod":  14,
+                    "sana":  "2026-11-02",
+                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.9/MEZBON_Ofitsiant_1.0.9.apk",
+                    "sha256":  "973971fd6807bb129470557c33b11d1898d14021c4a1de7becbe95f240a98c5b",
+                    "hajm":  94047749
                 }
 }
