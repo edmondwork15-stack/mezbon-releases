@@ -1,31 +1,47 @@
 {
     "windows":  {
-                    "versiya":  "1.0.9",
-                    "sana":  "2026-11-02",
-                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.9/MEZBON_POS_Setup_1.0.9.exe",
-                    "sha256":  "e15de545e88e756cf19508a36f278bfc9a79ae90394581d195d3710c12fbfc72",
-                    "hajm":  49723138,
+                    "versiya":  "1.0.10",
+                    "sana":  "2026-11-03",
+                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.10/MEZBON_POS_Setup_1.0.10.exe",
+                    "sha256":  "0d6d46f210062a8f74392f7ff6746c24d5845d2014cdd43e4632d0f0db3408bc",
+                    "hajm":  49787723,
                     "majburiy_min":  "0.0.0",
                     "ozgarishlar":  [
                                         {
                                             "tur":  "yangi",
-                                            "matn":  "Og\u0027irlik bo\u0027yicha taom (tirik baliq,xom g\u0027osht) -kg kiritiladi, summa avtomatik"
+                                            "matn":  "Hisobotda Oddiy rejim (katta raqamlar, Sozlamada yoqiladi)"
                                         },
                                         {
                                             "tur":  "yangi",
-                                            "matn":  "Xizmat haqi: kishi boshiga, foiz yoki ikkalasi"
+                                            "matn":  "Vazn oynasida kg va so\u0027m rejimi"
+                                        },
+                                        {
+                                            "tur":  "yangi",
+                                            "matn":  "Oshxona chekida KASSADAN BERILADI bo\u0027limi"
+                                        },
+                                        {
+                                            "tur":  "yangi",
+                                            "matn":  "Sozlama: tayyor mahsulotlardan xizmat haqi olinmasin"
+                                        },
+                                        {
+                                            "tur":  "yangi",
+                                            "matn":  "Telefonda qoldiq savat bilan birga kamayadi"
                                         },
                                         {
                                             "tur":  "yaxshilandi",
-                                            "matn":  "Kassada taom tanlash -/+ tugmalari"
+                                            "matn":  "Ofitsiant ilovasida versiya yozuvi"
                                         },
                                         {
                                             "tur":  "tuzatildi",
-                                            "matn":  "o\u0027chirilgan xodimning PIN\u0027i yangi xodimga berilishi mumkin"
+                                            "matn":  "Ofitsiant ilovasida versiya yozuvi"
                                         }
                                     ]
                 },
     "tarix":  [
+                  {
+                      "versiya":  "1.0.10",
+                      "sana":  "2026-11-03"
+                  },
                   {
                       "versiya":  "1.0.9",
                       "sana":  "2026-11-02"
@@ -48,11 +64,11 @@
                   }
               ],
     "android":  {
-                    "versiya":  "1.0.9",
-                    "kod":  14,
-                    "sana":  "2026-11-02",
-                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.9/MEZBON_Ofitsiant_1.0.9.apk",
-                    "sha256":  "973971fd6807bb129470557c33b11d1898d14021c4a1de7becbe95f240a98c5b",
-                    "hajm":  94047749
+                    "versiya":  "1.0.10",
+                    "kod":  15,
+                    "sana":  "2026-11-03",
+                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.10/MEZBON_Ofitsiant_1.0.10.apk",
+                    "sha256":  "fb3bc8109900eb027392d9ea5bc9177eb8d9a5a9cd92d1a87b0f272532b322ba",
+                    "hajm":  94277125
                 }
 }
