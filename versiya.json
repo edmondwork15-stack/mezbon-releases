@@ -1,19 +1,27 @@
 {
     "windows":  {
-                    "versiya":  "1.0.12",
-                    "sana":  "2026-11-04",
-                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.12/MEZBON_POS_Setup_1.0.12.exe",
-                    "sha256":  "007ae79d2adc45fefcda1fee7bfa9d5cf5ae21ad4d7f9be000903b2ba0e32b10",
-                    "hajm":  49904688,
+                    "versiya":  "1.0.13",
+                    "sana":  "2026-11-05",
+                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.13/MEZBON_POS_Setup_1.0.13.exe",
+                    "sha256":  "6c759ff955493dfa24195830ea5d3aefcedff374bf7138b6cf06ad954a15fa6d",
+                    "hajm":  49926558,
                     "majburiy_min":  "0.0.0",
                     "ozgarishlar":  [
                                         {
+                                            "tur":  "yangi",
+                                            "matn":  "Menyuda taomlarni kategoriya ichida sichqoncha bilan sudrab tartiblash"
+                                        },
+                                        {
                                             "tur":  "yaxshilandi",
-                                            "matn":  "Menyuda kategoriyalar tartibini o\u0027zgartirish (sudrab yoki Yuqoriga/Pastga)"
+                                            "matn":  "Hisobdan chiqarishda Mijoz stolidan qaytdi tayyor sababi qo\u0027shildi"
                                         }
                                     ]
                 },
     "tarix":  [
+                  {
+                      "versiya":  "1.0.13",
+                      "sana":  "2026-11-05"
+                  },
                   {
                       "versiya":  "1.0.12",
                       "sana":  "2026-11-04"
@@ -36,11 +44,11 @@
                   }
               ],
     "android":  {
-                    "versiya":  "1.0.12",
-                    "kod":  17,
-                    "sana":  "2026-11-04",
-                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.12/MEZBON_Ofitsiant_1.0.12.apk",
-                    "sha256":  "7f13af2756659b97918a2cb1d70f331876823413d1dabcb704191291fa0962f1",
-                    "hajm":  94654001
+                    "versiya":  "1.0.13",
+                    "kod":  19,
+                    "sana":  "2026-11-05",
+                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.13/MEZBON_Ofitsiant_1.0.13.apk",
+                    "sha256":  "26a486b6fb55269b7969e396f59d1d4e7defb01980ee00edf87d5d22dc4a6b69",
+                    "hajm":  94686773
                 }
 }
