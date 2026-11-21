@@ -1,23 +1,35 @@
 {
     "windows":  {
-                    "versiya":  "1.0.13",
-                    "sana":  "2026-11-05",
-                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.13/MEZBON_POS_Setup_1.0.13.exe",
-                    "sha256":  "6c759ff955493dfa24195830ea5d3aefcedff374bf7138b6cf06ad954a15fa6d",
-                    "hajm":  49926558,
+                    "versiya":  "1.0.14",
+                    "sana":  "2026-11-22",
+                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.14/MEZBON_POS_Setup_1.0.14.exe",
+                    "sha256":  "206216775910352bc6e2d726979c8546b09d037e462fe2f04321bc5d22848038",
+                    "hajm":  50183560,
                     "majburiy_min":  "0.0.0",
                     "ozgarishlar":  [
                                         {
                                             "tur":  "yangi",
-                                            "matn":  "Menyuda taomlarni kategoriya ichida sichqoncha bilan sudrab tartiblash"
+                                            "matn":  "Chek konstruktori: bloklarni yoqish, tartiblash, tekislash, chek chetlari"
+                                        },
+                                        {
+                                            "tur":  "yangi",
+                                            "matn":  "Kuryer chekida QR va karta raqami (sozlamada yoqiladi)"
                                         },
                                         {
                                             "tur":  "yaxshilandi",
-                                            "matn":  "Hisobdan chiqarishda Mijoz stolidan qaytdi tayyor sababi qo\u0027shildi"
+                                            "matn":  "Yangi dizayn: yon menyu, xarita, printer oynasi, stol rasmi"
+                                        },
+                                        {
+                                            "tur":  "yaxshilandi",
+                                            "matn":  "Chek chiqishi kamaydi (qog\u0027oz tejaladi)"
                                         }
                                     ]
                 },
     "tarix":  [
+                  {
+                      "versiya":  "1.0.14",
+                      "sana":  "2026-11-22"
+                  },
                   {
                       "versiya":  "1.0.13",
                       "sana":  "2026-11-05"
@@ -56,11 +68,11 @@
                   }
               ],
     "android":  {
-                    "versiya":  "1.0.13",
-                    "kod":  19,
-                    "sana":  "2026-11-05",
-                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.13/MEZBON_Ofitsiant_1.0.13.apk",
-                    "sha256":  "26a486b6fb55269b7969e396f59d1d4e7defb01980ee00edf87d5d22dc4a6b69",
-                    "hajm":  94686773
+                    "versiya":  "1.0.14",
+                    "kod":  21,
+                    "sana":  "2026-11-22",
+                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.14/MEZBON_Ofitsiant_1.0.14.apk",
+                    "sha256":  "962bec14239bd255f301fdff405b1c1e0f24429f72a93e6a0385bada1e3b32d0",
+                    "hajm":  95442157
                 }
 }
