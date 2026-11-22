@@ -1,31 +1,27 @@
 {
     "windows":  {
-                    "versiya":  "1.0.14",
-                    "sana":  "2026-11-22",
-                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.14/MEZBON_POS_Setup_1.0.14.exe",
-                    "sha256":  "206216775910352bc6e2d726979c8546b09d037e462fe2f04321bc5d22848038",
-                    "hajm":  50183560,
+                    "versiya":  "1.0.15",
+                    "sana":  "2026-11-23",
+                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.15/MEZBON_POS_Setup_1.0.15.exe",
+                    "sha256":  "31d8f55da8a359d875ee733effb8efe00c640f143e3ab71308863be3777cebbc",
+                    "hajm":  50183287,
                     "majburiy_min":  "0.0.0",
                     "ozgarishlar":  [
                                         {
-                                            "tur":  "yangi",
-                                            "matn":  "Chek konstruktori: bloklarni yoqish, tartiblash, tekislash, chek chetlari"
+                                            "tur":  "tuzatildi",
+                                            "matn":  "Printer ulanmagan yoki o\u0027chiq bo\u0027lsa dastur qotmaydi"
                                         },
                                         {
-                                            "tur":  "yangi",
-                                            "matn":  "Kuryer chekida QR va karta raqami (sozlamada yoqiladi)"
-                                        },
-                                        {
-                                            "tur":  "yaxshilandi",
-                                            "matn":  "Yangi dizayn: yon menyu, xarita, printer oynasi, stol rasmi"
-                                        },
-                                        {
-                                            "tur":  "yaxshilandi",
-                                            "matn":  "Chek chiqishi kamaydi (qog\u0027oz tejaladi)"
+                                            "tur":  "tuzatildi",
+                                            "matn":  "Printer xatosi tushunarli o\u0027zbekcha matnda chiqadi"
                                         }
                                     ]
                 },
     "tarix":  [
+                  {
+                      "versiya":  "1.0.15",
+                      "sana":  "2026-11-23"
+                  },
                   {
                       "versiya":  "1.0.14",
                       "sana":  "2026-11-22"
@@ -68,11 +64,11 @@
                   }
               ],
     "android":  {
-                    "versiya":  "1.0.14",
-                    "kod":  21,
-                    "sana":  "2026-11-22",
-                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.14/MEZBON_Ofitsiant_1.0.14.apk",
-                    "sha256":  "962bec14239bd255f301fdff405b1c1e0f24429f72a93e6a0385bada1e3b32d0",
-                    "hajm":  95442157
+                    "versiya":  "1.0.15",
+                    "kod":  22,
+                    "sana":  "2026-11-23",
+                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.15/MEZBON_Ofitsiant_1.0.15.apk",
+                    "sha256":  "6fc91be729ee900a09412b82da5c3d2bc35501a74e581140d7a85ffa23f73f1d",
+                    "hajm":  95442161
                 }
 }
