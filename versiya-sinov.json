@@ -1,10 +1,10 @@
 {
     "windows":  {
-                    "versiya":  "1.0.15",
+                    "versiya":  "1.0.16",
                     "sana":  "2026-11-23",
-                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.15/MEZBON_POS_Setup_1.0.15.exe",
-                    "sha256":  "31d8f55da8a359d875ee733effb8efe00c640f143e3ab71308863be3777cebbc",
-                    "hajm":  50183287,
+                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.16/MEZBON_POS_Setup_1.0.16.exe",
+                    "sha256":  "bdb0e73719a9f675bbca31822dd43cbd85f592c64e17dc0689db7abcf70f5965",
+                    "hajm":  50178849,
                     "majburiy_min":  "0.0.0",
                     "ozgarishlar":  [
                                         {
@@ -18,6 +18,10 @@
                                     ]
                 },
     "tarix":  [
+                  {
+                      "versiya":  "1.0.16",
+                      "sana":  "2026-11-23"
+                  },
                   {
                       "versiya":  "1.0.15",
                       "sana":  "2026-11-23"
@@ -64,11 +68,11 @@
                   }
               ],
     "android":  {
-                    "versiya":  "1.0.15",
-                    "kod":  22,
+                    "versiya":  "1.0.16",
+                    "kod":  23,
                     "sana":  "2026-11-23",
-                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.15/MEZBON_Ofitsiant_1.0.15.apk",
-                    "sha256":  "6fc91be729ee900a09412b82da5c3d2bc35501a74e581140d7a85ffa23f73f1d",
-                    "hajm":  95442161
+                    "url":  "https://github.com/edmondwork15-stack/mezbon-releases/releases/download/v1.0.16/MEZBON_Ofitsiant_1.0.16.apk",
+                    "sha256":  "374c6d066f76970e35edfcd483522f961b204b7abc6392380bbcb432f82f0b0e",
+                    "hajm":  95442157
                 }
 }
